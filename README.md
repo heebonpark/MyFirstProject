@@ -1,6 +1,6 @@
 # MyFirstProject
 포트폴리오
-# 💻 Backend Portfolio – 박세은
+# 💻 Backend Portfolio – 박희본
 
 > 카카오모빌리티 카오너개발팀 지원을 위한 백엔드 포트폴리오입니다.
 
